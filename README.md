@@ -15,7 +15,8 @@ Me apasiona transformar datos en información accionable que impacte la toma de 
 - 🎯 Actualmente fortaleciendo habilidades en **MLOps y model deployment**.
 
 📩 **Contacto:**  
-- LinkedIn: *www.linkedin.com/in/freddy-esteban-b352a7309*  
+- LinkedIn: *www.linkedin.com/in/freddy-esteban-b352a7309*
+- Correo: *freddyyaquive@gmail.com*
 
 ---
 
